@@ -3,7 +3,7 @@ plugins {
     application
 }
 
-group = "me.daniel"
+group = "me.edinaldo"
 version = "1.0-SNAPSHOT"
 
 repositories {

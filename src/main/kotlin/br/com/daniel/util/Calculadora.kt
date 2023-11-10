@@ -1,4 +1,4 @@
-package br.com.daniel.util
+package br.com.edinaldo.util
 
 class Calculadora {
     // Método para somar dois inteiros

@@ -1,4 +1,4 @@
-import br.com.daniel.util.Calculadora
+import br.com.edinaldo.util.Calculadora
 
 fun main() {
     // uma instância da classe Calculadora e chama o método soma com os parametros 1 e 2.
